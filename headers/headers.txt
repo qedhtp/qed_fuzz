@@ -74,6 +74,8 @@ X-Forwarded-Port-Override
 X-Forwarded-Server
 HTTP_X_FORWARDED_FOR
 ANYCX-Forwarded-For
+Server-Gateway-Account-Id
+Service-Gateway-Is-Newrelic-Admin
 Forwarded
 X-Forwarded-User
 X_FORWARDED_HOST
